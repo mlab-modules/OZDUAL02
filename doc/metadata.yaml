@@ -1,0 +1,19 @@
+description: Construction of the module is developed as universal circuit module for
+  dual operational amplifier in SO8 package. Module contains voltage reference. This
+  module can be used for all standard operational amplifier applications. Circuitry
+  is modified by populating the module by SMD resistors.
+github_branch: OZDUAL02A
+github_description: Construction of the module is developed as universal circuit module
+  for dual operational amplifier in SO8 package. Module contains voltage reference.
+  This module can be used for all standard operational amplifier applications. Circuitry
+  is modified by populating the module by SMD resistors.
+github_repo: OZDUAL02
+github_url: https://github.com/mlab-modules/OZDUAL02
+homepage: false
+images:
+- doc/img/OZDUAL02A_QRcode.png
+mark: 50
+status: 0
+tags: []
+title: OZDUAL02
+updated: '2023-09-17T11:33:05.121836+00:00'

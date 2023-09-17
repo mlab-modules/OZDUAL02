@@ -1,0 +1,11 @@
+bom: hw/sch_pcb/OZDUAL02.kicad_pcb
+color: white
+eda:
+  pcb: hw/sch_pcb/OZDUAL02.kicad_pcb
+  type: kicad
+gerbers: hw/cam_profi/
+site: https://github.com/mlab-modules/OZDUAL02
+summary: Construction of the module is developed as universal circuit module for dual
+  operational amplifier in SO8 package. Module contains voltage reference. This module
+  can be used for all standard operational amplifier applications. Circuitry is modified
+  by populating the module by SMD resistors.
